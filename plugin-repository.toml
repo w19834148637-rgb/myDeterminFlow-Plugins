@@ -4,3 +4,7 @@ name = "myDeterminFlow-Plugins"
 [[plugins]]
 id = "humanizer-zh"
 subdirectory = "plugins/humanizer-zh"
+
+[[plugins]]
+id = "oh-story"
+subdirectory = "plugins/oh-story"

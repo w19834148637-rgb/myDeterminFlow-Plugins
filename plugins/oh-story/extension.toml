@@ -1,0 +1,12 @@
+[extension]
+id = "oh-story"
+name = "OH Story"
+version = "1.0.0"
+api_version = "1"
+description = "网文/小说写作 Skill Pack，覆盖长篇与短篇小说的扫榜、拆文、写作、去 AI 味、审稿、导入与封面创作"
+
+[resource_namespace]
+prefix = "oh-story"
+
+[resources]
+skill_bundles = "resources/skill-bundles"
