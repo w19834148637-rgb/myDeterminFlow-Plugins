@@ -1,0 +1,12 @@
+[extension]
+id = "lieflat-less-ai-tone"
+name = "Lieflat Less AI Tone"
+version = "1.0.0"
+api_version = "1"
+description = "基于中文语料统计研究的去 AI 味 Skill，采用白名单规则和信息守恒原则"
+
+[resource_namespace]
+prefix = "lieflat-less-ai-tone"
+
+[resources]
+skill_bundles = "resources/skill-bundles"

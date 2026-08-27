@@ -8,3 +8,6 @@ subdirectory = "plugins/humanizer-zh"
 [[plugins]]
 id = "oh-story"
 subdirectory = "plugins/oh-story"
+[[plugins]]
+id = "lieflat-less-ai-tone"
+subdirectory = "plugins/lieflat-less-ai-tone"
