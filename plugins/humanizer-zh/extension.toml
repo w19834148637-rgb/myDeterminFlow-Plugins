@@ -1,0 +1,12 @@
+[extension]
+id = "humanizer-zh"
+name = "Humanizer-zh"
+version = "1.0.0"
+api_version = "1"
+description = "中文 AI 写作去痕 Skill"
+
+[resource_namespace]
+prefix = "humanizer"
+
+[resources]
+skill_bundles = "resources/skill-bundles"
