@@ -1,0 +1,12 @@
+[extension]
+id = "webnovel-writer"
+name = "Webnovel Writer"
+version = "1.0.0"
+api_version = "1"
+description = "长篇网文辅助创作系统，支持初始化、规划、写作、审查和长期创作流程"
+
+[resource_namespace]
+prefix = "webnovel-writer"
+
+[resources]
+skill_bundles = "resources/skill-bundles"
