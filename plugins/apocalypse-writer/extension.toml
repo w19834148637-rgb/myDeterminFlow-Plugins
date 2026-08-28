@@ -1,0 +1,12 @@
+[extension]
+id = "apocalypse-writer"
+name = "末世流专家"
+version = "1.0.0"
+api_version = "1"
+description = "末世/废土/丧尸类小说正文生成器。"
+
+[resource_namespace]
+prefix = "apocalypse-writer"
+
+[resources]
+skill_bundles = "resources/skill-bundles"

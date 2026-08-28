@@ -15,3 +15,7 @@ subdirectory = "plugins/lieflat-less-ai-tone"
 [[plugins]]
 id = "webnovel-writer"
 subdirectory = "plugins/webnovel-writer"
+
+[[plugins]]
+id = "apocalypse-writer"
+subdirectory = "plugins/apocalypse-writer"
